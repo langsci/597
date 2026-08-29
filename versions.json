@@ -1,7 +1,12 @@
 {"versions": [{"versiontype": "proofreading",
 		"title": "The role of cross-linguistic influence, internal dynamics, and register in heritage speakers' languages",
-		"authors": [{"name": "Kateryna Iefremenko %use this field for editors as well"}],
+		"authors": [{"name": "Kateryna Iefremenko"}],
 	"license": "CC-BY-4.0",
-	"publishedAt": "2026-04-13T10:35:32.000Z"}
+	"publishedAt": "2026-04-13T10:35:32.000Z"},
+	{"versiontype": "first_edition",
+		"title": "The role of cross-linguistic influence, internal dynamics, and register in heritage speakers' languages",
+		"authors": [{"name": "Kateryna Iefremenko"}],
+	"license": "CC-BY-4.0",
+	"publishedAt": "2026-08-13T10:35:32.000Z"}
 	]
 }
